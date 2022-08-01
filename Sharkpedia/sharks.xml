@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<shark id="shark1">
+		<name>Spiny Dogfish</name>
+		<namesci>Squalus acanthias</namesci>
+		<lifespan>35 - 54 years</lifespan>
+		<size>80 – 100cm for males, 98.5 – 159cm for females</size>
+		<physical>The spiny dogfish has dorsal fins, no anal fin, and white spots along its back. The caudal fin has asymmetrical lobes, forming a heterocercal tail. The species name acanthias refers to the shark's two spines. These are used defensively. If captured, the shark can arch its back to pierce its captor with spines near the dorsal fins that secrete a mild venom into its predator.</physical>
+		<image path="Spiny_dogfish.jpg"></image>
+		<st>CR</st>
+		<status>Critically Endangered</status>
+	</shark>
+
+	<shark id="shark2">
+		<name>Dwarf Lanternshark</name>
+		<namesci>Etmopterus perryi</namesci>
+		<lifespan>20 - 30 years</lifespan>
+		<size>16 – 17.5cm for males, 15.5cm for females</size>
+		<physical>It has a long, wide, flattened head comprising a fourth to a fifth of its total length. The eyes are large, twice as long as high, with the anterior and posterior corners acute. some of the ventral black markings are composed of light-producing photophores, while others (including the patch behind the pelvic fins) are composed of pigment-containing chromatophores.</physical>
+		<image path="Dwarf_Lanternshark.jpg"></image>
+		<st>DD</st>
+		<status>Data Deficient</status>
+	</shark>
+
+	<shark id="shark3">
+		<name>Whale Shark</name>
+		<namesci>Rhincodon typus</namesci>
+		<lifespan>80 – 130 years</lifespan>
+		<size>8 - 9m for males, 14.5m for females</size>
+		<physical>Whale shark mouths can contain over 300 rows of tiny teeth and 20 filter pads which it uses to filter feed. Unlike many other sharks, whale sharks' mouths are located at the front of the head rather than on the underside of the head. Their skin is dark grey with a white belly marked with pale grey or white spots and stripes which are unique to each individual.</physical>
+		<image path="Whale_Shark.jpg"></image>
+		<st>EN</st>
+		<status>Endangered</status>
+	</shark>
+
+	<shark id="shark4">
+		<name>Great White Shark</name>
+		<namesci>Carcharodon carcharias</namesci>
+		<lifespan>70 – 73 years</lifespan>
+		<size>3.4 - 4m for males, 4.6 - 4.9m for females</size>
+		<physical>The English name 'white shark' and its Australian variant 'white pointer' is thought to have come from the shark's stark white underside, a characteristic feature most noticeable in beached sharks lying upside down with their bellies exposed. Colloquial use favours the name ‘great white shark’, perhaps because ‘great’ stresses the size and prowess of the species. A great white displays countershading, by having a white underside and a grey dorsal area (sometimes in a brown or blue shade) that gives an overall mottled appearance. The coloration makes it difficult for prey to spot the shark because it breaks up the shark's outline when seen from the side.</physical>
+		<image path="White_shark.jpg"></image>
+		<st>VU</st>
+		<status>Vulnerable</status>
+	</shark>
+
+	<shark id="shark5">
+		<name>Frilled Shark</name>
+		<namesci>Chlamydoselachus anguineus</namesci>
+		<lifespan>about 25 years</lifespan>
+		<size>roughly 2m</size>
+		<physical>The Frilled Shark have the eel-like bodies with a skin colour that is uniformly dark-brown to uniformly grey. The head of the frilled shark is broad and flat, with a short, rounded snout. The nostrils are vertical slits, separated by a flap of skin that forms the incurrent opening and the excurrent opening. The moderately large eyes are horizontal ellipsoids, which have no nictitating membrane, which is a protective, third-eyelid. The jaws contain 300 trident-shaped teeth, each needle-tooth has a cusp and two cusplets; the rows of teeth are widely spaced, with 19–28 tooth rows in the upper jaw, and 21–29 tooth rows in the lower jaw. Frilled sharks are able to open jaws and devour food sources that are considerably greater than that of their size, this is a physical trait that is present in gulper eels and viperfish.</physical>
+		<image path="Frilled_shark.jpg"></image>
+		<st>NT</st>
+		<status>Near Threatened</status>
+	</shark>
+
+	<shark id="shark6">
+		<name>Horn Shark</name>
+		<namesci>Heterodontus francisci</namesci>
+		<lifespan>12 - 25 years</lifespan>
+		<size>56 – 61cm for males, 58cm for females</size>
+		<physical>Like other bullhead sharks, the horn shark has a short, wide head with a blunt snout and prominent supraorbital ridges over the eyes. The body is cylindrical, with two high, somewhat falcate (sickle-shaped) dorsal fins bearing stout spines at the front. The fin spines of reef-dwelling horn sharks are shorter than those living in algal habitats, as their spines become worn down on rocks from the sharks' movements. The dorsal coloration consists of various shades of gray or brown with many small dark spots, though these may be absent in older sharks; the underside is yellowish. There is a dark patch of small spots below the eye.</physical>
+		<image path="Horn_Shark.jpg"></image>
+		<st>DD</st>
+		<status>Data Deficient</status>
+	</shark>
+
+	<shark id="shark7">
+		<name>Scalloped Hammerhead</name>
+		<namesci>Sphyrna lewini</namesci>
+		<lifespan>30 - 55 years</lifespan>
+		<size>1.5 - 1.8m for males, 2.5m for females</size>
+		<physical>The shark has a large body and a broadly arched, narrow-bladed head with a central notch and two smaller lateral indentations. They are light grey or bronzy above, white below, with dusky or black-tipped pectoral fins, with a dark blotch on their lower caudal fin lobe.</physical>
+		<image path="Scalloped_Hammerhead.jpeg"></image>
+		<st>EN</st>
+		<status>Endangered</status>
+	</shark>
+
+	<shark id="shark8">
+		<name>Great Hammerhead</name>
+		<namesci>Sphyrna mokarran</namesci>
+		<lifespan>20 – 30 years</lifespan>
+		<size>2.3 – 2.8m for males, 2.5 – 3.0m for females</size>
+		<physical>The streamlined body of the great hammerhead with the expanded cephalofoil is typical of the hammerhead sharks. Adults can be distinguished from the scalloped hammerhead and the smooth hammerhead by the shape of the cephalofoil, which has a nearly straight front margin (as opposed to arched), with prominent medial and lateral indentations.</physical>
+		<image path="Great_Hammerhead.jpg"></image>
+		<st>CR</st>
+		<status>Critically Endangered</status>
+	</shark>
+
+	<shark id="shark9">
+		<name>Megalodon</name>
+		<namesci>Otodus megalodon</namesci>
+		<lifespan>88 - 100 years</lifespan>
+		<size>15 - 18m on average</size>
+		<physical>One interpretation on how megalodon appeared was that it was a robust-looking shark, and may have had a similar build to the great white shark. The jaws may have been blunter and wider than the great white, and the fins would have also been similar in shape, though thicker due to its size. It may have had a pig-eyed appearance, in that it had small, deep-set eyes. Another interpretation is that megalodon bore a similarity to the whale shark or the basking shark. The tail fin would have been crescent-shaped, the anal fin and second dorsal fin would have been small, and there would have been a caudal keel present on either side of the tail fin (on the caudal peduncle). This build is common in other large aquatic animals, such as whales, tuna, and other sharks, in order to reduce drag while swimming. The head shape can vary between species as most of the drag-reducing adaptations are toward the tail-end of the animal.</physical>
+		<image path="Megalodon.jpg"></image>
+		<st>EX</st>
+		<status>Extinct</status>
+	</shark>
+
+	<shark id="shark10">
+		<name>Crocodile Shark</name>
+		<namesci>Pseudocarcharias kamoharai</namesci>
+		<lifespan>about 13 years</lifespan>
+		<size>74cm for males, 1.1m for females</size>
+		<physical>The crocodile shark has a spindle-shaped body with a short head and a bulbous, pointed snout. The eyes are very large and lack nictating membranes (protective third eyelids). The five pairs of gill slits are long, extending onto the dorsal surface. The sizable, arched jaws can be protruded almost to the tip of the snout and contain large teeth, shaped like spikes in the front and knives on the sides. There are fewer than 30 tooth rows in either jaw; in the upper jaw, the first two large teeth are separated from the lateral teeth by a row of small intermediate teeth.</physical>
+		<image path="Crocodile_Shark.jpg"></image>
+		<st>NT</st>
+		<status>Near Threatened</status>
+	</shark>
+
+	<shark id="shark11">
+		<name>Sand Tiger Shark</name>
+		<namesci>Carcharias taurus</namesci>
+		<lifespan>15 - 40 years</lifespan>
+		<size>1.9m for males, 2.2m for females</size>
+		<physical>The head is pointy, as opposed to round, while the snout is flattened with a conical shape. Its body is stout and bulky and its mouth extends beyond the eyes. The eyes of the sand tiger shark are small, lacking eyelids. A sand tiger usually swims with its mouth open displaying three rows of protruding, smooth-edged, sharp-pointed teeth. The sand tiger shark has a grey-brown back and pale underside. Adults tend to have reddish-brown spots scattered, mostly on the hind part of the body.</physical>
+		<image path="Sand_tiger_shark.jpg"></image>
+		<st>CR</st>
+		<status>Critically Endangered</status>
+	</shark>
+
+	<shark id="shark12">
+		<name>Leopard Shark</name>
+		<namesci>Triakis semifasciata</namesci>
+		<lifespan>about 30 years</lifespan>
+		<size>50 - 60 on average</size>
+		<physical>The leopard shark has a moderately stout body, with a short, rounded snout. There are well-developed, triangular flaps of skin in front of the nares. The eyes are large and oval, with a nictitating membrane (a protective third eyelid). The coloration is unique, consisting of prominent black "saddles" and large black spots running along the back, on a silvery to bronzy gray background. Adult sharks often have more spots and saddles with lighter centers compared to juveniles. The underside is whitish and plain.</physical>
+		<image path="Leopard_Shark.jpg"></image>
+		<st>LC</st>
+		<status>Least Concern</status>
+	</shark>
+
+	<shark id="shark13">
+		<name>Lemon Shark</name>
+		<namesci>Negaprion brevirostris</namesci>
+		<lifespan>Unknown. The average shark is 30 years old </lifespan>
+		<size>2.24m for males, 2.4m for females</size>
+		<physical>The shark's yellow colouring serves as an excellent camouflage when swimming over the sandy seafloor in its coastal habitat.t has a flattened head with a short, broad snout, and the second dorsal fin is almost as large as the first. Lemon sharks, as any other species of shark, have electroreceptors concentrated in their heads, called the ampullae of Lorenzini. These receptors detect electrical pulses emitted by potential prey and allow these nocturnal feeders to sense their prey in the dark.</physical>
+		<image path="Lemon_Shark.jpg"></image>
+		<st>NT</st>
+		<status>Near Threatened</status>
+	</shark>
+
+	<shark id="shark14">
+		<name>Spotted Wobbegong</name>
+		<namesci>Orectolobus maculatus</namesci>
+		<lifespan>Unknown</lifespan>
+		<size>about 150 - 180</size>
+		<physical>The coloration pattern of spotted wobbegongs provides camouflage against the varying color patterns of the environment it inhabits. They are generally a pale yellow or green-brown with large, dark areas down the midline of the body. White "O"-shaped spots often cover the entire back of the shark. Although other species of Orectolobidae family are usually similar in appearance, the coloration pattern of spotted wobbegong is distinctive.</physical>
+		<image path="Spotted_Wobbegong.jpg"></image>
+		<st>NT</st>
+		<status>Near Threatened</status>
+	</shark>
+
+	<shark id="shark15">
+		<name>Graceful Shark</name>
+		<namesci>Carcharhinus amblyrhynchoides</namesci>
+		<lifespan>about 25 years</lifespan>
+		<size>maximum size is 1.7m</size>
+		<physical>Contrary to its common name, the graceful shark's spindle-shaped body has been described as "tubby". The wedge-like snout is short and pointed. The eyes are rather large and circular, and equipped with nictitating membranes (protective third eyelids). The pectoral fins, dorsal fins, lower caudal fin lobe, and sometimes the pelvic fins usually have black tips, while the upper caudal fin lobe darkens towards the trailing edge and the anal fin may be completely light. The fin markings tend to fade with age.</physical>
+		<image path="Graceful_Shark.jpg"></image>
+		<st>VU</st>
+		<status>Vulnerable</status>
+	</shark>
+
+	<shark id="shark16">
+		<name>Shortnose Sawshark</name>
+		<namesci>Pristiophorus nudipinnis</namesci>
+		<lifespan>about 9 years</lifespan>
+		<size>110m for males, 124m for females</size>
+		<physical>The body of a longnose saw shark is covered in tiny placoid scales: modified teeth covered in hard enamel. The body is a yellow-brown color which is sometimes covered in dark spots or blotches. This coloration allows the saw shark to easily blend with the sandy ocean floor.</physical>
+		<image path="shortnose_sawshark.jpg"></image>
+		<st>DD</st>
+		<status>Data Deficient</status>
+	</shark>
+
+	<shark id="shark17">
+		<name>Sand Devil</name>
+		<namesci>Squatina dumeril</namesci>
+		<lifespan>Unknown</lifespan>
+		<size>about 86 - 93</size>
+		<physical>The sand devil is found in the northwestern Atlantic Ocean from Massachusetts to the Florida Keys, where it is fairly common. It also occurs in the northern Gulf of Mexico, and there are additional unconfirmed records from Cuba, Jamaica, Nicaragua, and Venezuela. The southern extent of its range is uncertain due to confusion with the disparate angelshark (S. heteroptera) and Mexican angelshark (S. mexicana). Because they inhabit deep-waters and because of their low commercial value the effort put into data collection is low, as with many species under these circumstances. Although their appearances are fragmented they still are classified under large broader spaces due to the lack of research done. As a result, ranges of deep-water shark species are often considered continuous across broad expanses de-spite records of occurrence, in many cases, being spatially fragmented. This bottom-dwelling shark is found over sandy or muddy bottoms on the continental shelf and slope.</physical>
+		<image path="Sand_Devil.jpg"></image>
+		<st>LC</st>
+		<status>Least Concern</status>
+	</shark>
+
+	<shark id="shark18">
+		<name>Japanese Angelshark</name>
+		<namesci>Squatina japonica</namesci>
+		<lifespan>about 25–35 years</lifespan>
+		<size>Unknown for males, 80-150cm for females</size>
+		<physical>The Japanese angelshark is fairly narrow-bodied and has greatly enlarged pectoral and pelvic fins. The skin folds along the sides of the head lack distinct lobes. The eyes are oval and widely spaced; closely behind are crescent-shaped spiracles with large, boxy projections inside their anterior rims. Each nostril is large and preceded by a small flap of skin bearing two barbels; the outer barbel is thin, while the inner barbel has a spoon-like tip and a smooth to slightly fringed flange at the base. The wide mouth is terminally placed and has furrows at the corners. There are 10 tooth rows on either side of both jaws, separated by a gap in the middle; the teeth are small, narrow, and pointed. There are five pairs of gill slits located on the sides of the head. </physical>
+		<image path="Japanese_Angelshark.jpg"></image>
+		<st>CR</st>
+		<status>Critically Endangered</status>
+	</shark>
+
+	<shark id="shark19">
+		<name>Greenland Shark</name>
+		<namesci>Somniosus microcephalus</namesci>
+		<lifespan>about 500 years</lifespan>
+		<size>about 2 - 7m</size>
+		<physical>Males are typically smaller than females. It rivals the Pacific sleeper shark (possibly up to 7 m or 23 ft long) as the largest species in the family Somniosidae. The Greenland shark is a thickset species, with a short, rounded snout, small eyes, and very small dorsal and pectoral fins. The gill openings are very small for the species' great size. Coloration can range from pale creamy-gray to blackish-brown and the body is typically uniform in color, though whitish spots or faint dark streaks are occasionally seen on the back.</physical>
+		<image path="Greenland_Shark.jpg"></image>
+		<st>VU</st>
+		<status>Vulnerable</status>
+	</shark>
+
+	<shark id="shark20">
+		<name>Shortfin Mako Shark</name>
+		<namesci>Isurus oxyrinchus</namesci>
+		<lifespan>29 - 32 years</lifespan>
+		<size>about 4m</size>
+		<physical>The shortfin mako shark is a fairly large species of shark. Growth rates appear to be somewhat accelerated in comparison to other species in the lamnid family.[9] An average adult specimen measures around 3.2 m (10 ft) in length and weighs from 60–135 kg (132–298 lb). The species is sexually dimorphic, with females typically larger than males. The shortfin mako shark is cylindrical in shape, with a vertically elongated tail. This species exhibits countershading, with brilliant metallic blue coloration dorsally and white ventrally. The line of demarcation between blue and white on the body is distinct. The underside of the snout and the area around the mouth are white. Larger specimens tend to possess darker coloration that extends onto parts of the body that would be white in smaller individuals.</physical>
+		<image path="Mako_Shark.jpg"></image>
+		<st>EN</st>
+		<status>Endangered</status>
+	</shark>
+</catalog>

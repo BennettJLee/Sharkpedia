@@ -1,0 +1,475 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: White;
+    text-decoration: none;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+/************************************ navbar *****************************/
+#navbar {
+  width: 100%;
+  background: none;
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 20px;
+  position: sticky;
+  top: 20px;
+}
+
+#navbarImg{
+  width: 100px;
+  margin-left: 20px;
+}
+
+#navbarText{
+  background-image: linear-gradient(to right,
+    rgba(0, 0, 0, 0), rgb(3, 43, 67, 0.5));
+  margin-left: auto;
+  padding-right: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#navbarText li{
+  display: inline-block;
+  padding-left: 100px;
+}
+
+/* unvisited link */
+#navbarText a{
+  color: white;
+}
+
+/* mouse over link */
+#navbarText a:hover{
+  color: DarkGrey;
+}
+/************************************ index *****************************/
+#indexBG {
+  background-image: url("../Sharkpedia/homeBG.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container {
+    display: inline-block;
+}
+
+.whiteline {
+    width: 5px;
+    background-color: White;
+    margin-left: 20%;
+}
+
+.description {
+    display: flex;
+    padding-left: 10px;
+}
+
+#pageTitle {
+    font-size: 80px;
+    margin: 50px;
+    margin-left: 20%;
+    margin-top: 130px;
+}
+
+#description {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    margin-left: 20px;
+}
+
+#buttonBox {
+  display: flex;
+}
+
+#buttonBox div:hover {
+  background-color: white;
+  text-decoration: none;
+  color: #032B43;
+}
+
+#cBtn {
+  margin-left: 100px;
+}
+
+.indexbtn {
+  background-color: none;
+  color: white;
+  border: 2px solid white;
+  border-radius: 3px;
+  padding: 10px 30px;
+  margin: 30px;
+  margin-left: 25%;
+  text-align: center;
+  font-weight: 300;
+  font-size: 25px;
+  display: inline-block;
+  transition-duration: 0.5s;
+  cursor: pointer;
+}
+
+.btn a:hover{
+  color: #032B43;
+}
+#footer {
+  height: 300px;
+}
+/***************************** browse page *****************************/
+#browseBG {
+  background-image: url("../Sharkpedia/BG.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.btn-group {
+  margin-left: 80px;
+  position: sticky;
+  top: 150px;
+}
+
+.btn {
+  background-color: rgb(3, 43, 67, 1);
+  border: none;
+  margin-left: 3px;
+  margin-right: 3px;
+  width: 150px;
+  height: 60px;
+  font-size: 20px;
+  cursor: pointer;
+  display: inline-block;
+  float: left;
+  border-radius: 5px;
+}
+
+/* Add a background color on hover */
+.btn:hover {
+  background-color: rgb(3, 43, 67, 0.7);
+}
+
+.sharkcontainer{
+  margin-top: 150px;
+  margin-left: 200px;
+  margin-bottom: 200px;
+  width: 1000px;
+}
+
+.card {
+  width: 1000px;
+  margin: auto;
+  margin-bottom: 20px;
+  background-color: rgba(3, 43, 67, 0.6);
+  border-left: 5px solid white;
+  border-radius: 5px;
+}
+
+.filter {
+  display: none;
+}
+
+.card:hover {
+  background-color: rgba(3, 43, 67, 0.8);
+  color: DarkGrey;
+}
+
+.card::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.cardTitle {
+  float: left;
+  width: 40%;
+  padding: 20px;
+  margin-right: 80px;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+#name{
+  font-weight: 500;
+  font-size: 30px;
+}
+
+#sciname{
+  font-weight: 200;
+  font-style: italic;
+  font-size: 20px;
+  letter-spacing: 8px;
+}
+
+#status{
+  font-weight: 500;
+  color: DarkGrey;
+  margin-top: 20px;
+}
+
+.statDiv{
+  border-radius: 50%;
+  display: block;
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
+  padding-top: 10px;
+  padding-left: 12px;
+}
+
+.statDiv p{
+  font-weight: 600;
+  font-size: 20px;
+}
+
+#EX {
+  background-color: black;
+}
+#EX p {
+  color: red;
+}
+#CR {
+  background-color: #b32d00;
+}
+#EN {
+  background-color: #cc7a00;
+}
+#VU {
+  background-color: #ffa300;
+}
+#NT {
+  background-color: green;
+}
+#NT p{
+  color: #66cc99;
+}
+#LC {
+  background-color: green;
+}
+#DD {
+  background-color: darkgrey;
+}
+
+#info {
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.sharkmask{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.sharkmask img{
+  height: 200px;
+  border-radius: 5px;
+}
+a:hover {
+  color: DarkGrey;
+}
+/***************************** results page *****************************/
+
+#back {
+  display: inline-block;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(3, 43, 67, 0.8);
+  position: fixed;
+  margin-left: 150px;
+  margin-top: 50px;
+  color: white;
+  padding: 15px;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 5px;
+  font-family: inherit;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+#back span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#back span:after {
+  content: '<';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 20px;
+  transition: 0.8s;
+}
+
+#back:hover span {
+  padding-left: 25px;
+  color: DarkGrey;
+}
+
+#back:hover span:after {
+  opacity: 1;
+  left: 0;
+}
+
+#allCard {
+  background-color: rgba(3, 43, 67, 0.8);
+  margin: auto;
+  margin-bottom: 200px;
+  width: 60%;
+  padding-left: 5%;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+
+#resultTitle {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+}
+
+.sharkCard{
+  display: block;
+}
+
+.imgmask {
+  margin-bottom: 20px;
+}
+
+.imgmask img {
+  width: 600px;
+  border-radius: 5px;
+}
+
+.line {
+  width: 5px;
+  background-color: white;
+}
+
+.rdescription {
+  width: 90%;
+  padding-left: 10px;
+  border-left: 5px solid white;
+}
+
+.rdescription h3 {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.rdescription p {
+  font-size: 18px;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+#p2 {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.card
+
+.sharkFinder {
+    border: 0;
+    border-radius: 5px;
+    height: 25px;
+    padding: 30px 40px 30px 40px;
+    background-color: rgba(3, 43, 67, 0.6);
+    font-family: inherit;
+    font-size: 20px;
+    margin: 20px;
+    width: 650px;
+}
+
+::placeholder {
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.45);
+}
+
+.submit {
+    border: 0;
+    border-radius: 5px;
+    padding: 14px;
+    background-color: rgba(3, 43, 67, 0.6);
+    font-family: poppins;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+#back.sharkBack {
+    position: sticky !important;
+}
+/***************************** contact page *****************************/
+#contactBG {
+  background-image: linear-gradient(to top, #032B43, #00abcb);
+}
+
+.contactBox {
+  margin: auto;
+  width: 70%;
+  text-align: center;
+}
+
+.contactBox h1{
+  font-size: 70px;
+  font-weight: 300;
+  padding-top: 40px;
+  line-height: 70px;
+}
+
+.contactBox p {
+  font-size: 20px;
+  font-weight: 300;
+  width: 70%;
+  margin: auto;
+}
+
+#details {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  width: 350px;
+  border: 3px solid white;
+}
+
+#details b {
+  font-weight: 300;
+  font-size: 15px;
+  letter-spacing: 8px;
+}
+
+.mapmask{
+  margin: auto;
+  margin-top: 20px;
+  width: 57%;
+}
+.mapmask iframe{
+  width: 800px;
+  height: 400px;
+  border-radius: 5px;
+}
+
+#box {
+  margin: auto;
+  margin-top: 150px;
+  margin-bottom: 100px;
+  width: 30%;
+}
+
+#box img {
+  height: 400px;
+}
